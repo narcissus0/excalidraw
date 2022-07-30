@@ -11,3 +11,15 @@
   src: url("Cascadia.woff2");
   font-display: swap;
 }
+
+/* add chinese fonts */
+@font-face {
+  font-family: "JiangCheng";
+  src: url("JiangCheng.ttf");
+  font-display: swap;
+}
+@font-face {
+  font-family: "XiaolaiSC";
+  src: url("XiaolaiSC-Regular.ttf");
+  font-display: swap;
+}

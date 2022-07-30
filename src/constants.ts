@@ -70,6 +70,9 @@ export const FONT_FAMILY = {
   Virgil: 1,
   Helvetica: 2,
   Cascadia: 3,
+  // add chinese font icon
+  JiangCheng: 4,
+  XiaolaiSC: 5,
 };
 
 export const THEME = {
